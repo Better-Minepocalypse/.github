@@ -5,7 +5,4 @@ We are a small Team of Modpack creators who diceded to make Modpacks in a Apocal
 
 
 ## 🔗 Packs created by us
-[![Better Minepocalypse (Comming Soon)]([https://imgs.search.brave.com/kBSPdHI6ilM5tt3T93Nl3ETbFlo8hh5DNHkIB3EnZac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNl/cnJtL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3kxYTRnYnV2NWZl/YTEucG5n]]()
-
-
-
+Better Minepocalypse (comming soon)
