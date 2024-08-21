@@ -1,17 +1,11 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-# Better Minepocalypse
+## 🚀 About us
 We are a small Team of Modpack creators who diceded to make Modpacks in a Apocalypse theme.
 
-Our first Modpack is in 1.12.2 and we will create a lot of packs.
+
+## 🔗 Packs created by us
+[![Better Minepocalypse (Comming Soon)]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://imgs.search.brave.com/kBSPdHI6ilM5tt3T93Nl3ETbFlo8hh5DNHkIB3EnZac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNl/cnJtL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3kxYTRnYnV2NWZl/YTEucG5n))]()
+
+
+
